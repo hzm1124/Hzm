@@ -24,7 +24,7 @@
 - |No|Name|Value|
   |:-:|:-|:-|
   |1|系统|私人：<br />1. `User`: `Hzm`<br />2. `Name`: `Hzm-Desktop`<br /><br />办公（台式）：<br />1. `User`: `YangTeng`<br />2. `Name`: `Lennon-Desktop`<br /><br />办公（笔记本）：<br />1. `User`: `YangTeng`<br />2. `Name`: `Lennon-Laptop`|
-  |2|Git|私人：<br />1. `git config --global user.name 'Hzm'`<br />2. `git config --global user.email '1210882202@qq.com'`<br /><br />办公（台式）：<br />1. `git config --global user.name 'Lennon_Desktop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`<br /><br />办公（笔记本）：<br />1. `git config --global user.name 'Lennon_Laptop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`|
+  |2|git|私人：<br />1. `git config --global user.name 'Hzm'`<br />2. `git config --global user.email '1210882202@qq.com'`<br /><br />办公（台式）：<br />1. `git config --global user.name 'Lennon_Desktop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`<br /><br />办公（笔记本）：<br />1. `git config --global user.name 'Lennon_Laptop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`|
 
 ## 1.3. 软件
 
@@ -34,7 +34,7 @@
 
 - |序号|名称|来源 / 校验|
   |:-:|:-|:-|
-  |01|<span style="color: violet;">电脑管家</span>|[官网](https://guanjia.qq.com/page/product_download.html)|
+  |01|<span style="color: violet;">腾讯电脑管家</span>|[官网](https://guanjia.qq.com/page/product_download.html)|
   |02|<span style="color: violet;">7-Zip</span>|[官网](https://www.7-zip.org/)|
   |03|<span style="color: violet;">迅雷</span>|[官网](https://www.xunlei.com/)|
   |04|<span style="color: violet;">搜狗输入法</span>|[官网](https://pinyin.sogou.com/)|
@@ -42,7 +42,7 @@
   |06|<span style="color: violet;">向日葵</span>|[官网](https://sunlogin.oray.com/download?categ=personal)|
   |07|<span style="color: violet;">QtScrcpy</span>|[GitHub](https://github.com/barry-ran/QtScrcpy)|
   |08|<span style="color: violet;">Snipate</span>|[官网](https://www.snipaste.com/)|
-  |09|<span style="color: violet;">bandicam</span>|[官网](https://www.bandicam.cn/downloads/)|
+  |09|<span style="color: violet;">Bandicam</span>|[官网](https://www.bandicam.cn/downloads/)|
   |10|Office|[Office Tool Plus](https://www.coolhub.top/archives/11)|
   |11|<span style="color: violet;">WPS</span>|[官网](https://platform.wps.cn/)|
   |12|<span style="color: violet;">OfficeBox</span>|[官网](http://www.wofficebox.com/)|
@@ -81,7 +81,7 @@
   |:-:|:-|:-|
   |1|Homebrew|[官网](https://brew.sh/zh-cn/)|
   |2|Oh My Zsh|[官网](https://ohmyz.sh/#install)<br /><br />`~/.zshrc` -> `ZSH_THEME="apple"`、`ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=yellow'`、`plugins=(git zsh-autosuggestions)`（参考[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)）|
-  |3|Git|1. `git config --global user.name 'Hackintosh'`<br />2. `git config --global user.email '1210882202@qq.com'`|
+  |3|git|1. `git config --global user.name 'Hackintosh'`<br />2. `git config --global user.email '1210882202@qq.com'`|
 
 
 ## 2.3. 软件
@@ -143,15 +143,13 @@
   
 - |序号|名称|来源 / 校验|
   |:-:|:-|:-|
-  |01|<span style="color: violet;">Git</span>|[官网](https://git-scm.com/downloads)|
-  |02|<span style="color: violet;">Sublime</span>|[官网](http://www.sublimetext.com/)|
-  |03|<span style="color: violet;">Python</span>|[官网](https://www.python.org/)|
-  |04|PyCharm|<https://www.jetbrains.com/pycharm/download/>|
-  |05|<span style="color: violet;">Postman</span>|<https://www.postman.com/downloads/>|
+  |01|git|[官网](https://git-scm.com/downloads)|
+  |02|Sublime Text|[官网](http://www.sublimetext.com/)|
+  |03|Python|[官网](https://www.python.org/)|
+  |05|Postman|[官网](https://www.postman.com/downloads/)|
+  |12|Dev-C++|<https://github.com/Embarcadero/Dev-Cpp/>|
   |06|JDK|<https://www.runoob.com/java/java-environment-setup.html><br>(<https://www.oracle.com/java/technologies/downloads/>)|
   |07|MySQL|<https://www.cnblogs.com/winton-nfs/p/11524007.html>|
   |08|R|<https://cran.r-project.org/>|
   |09|R Studio|<https://www.rstudio.com/products/rstudio/download/>|
   |10|SPSS Modeler|百度网盘：<https://pan.baidu.com/s/1D8wlbnKo9n2Al86g7rlrDQ><br>提取码：efa3|
-  |11|Matlab|<https://it.mathworks.com/academia/tah-portal/queen-mary-university-of-london-729269.html>|
-  |12|Dev-C++|<https://github.com/Embarcadero/Dev-Cpp/>|
