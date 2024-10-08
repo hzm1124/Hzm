@@ -7,8 +7,9 @@
 - [微PE工具箱](https://www.wepe.com.cn/download.html)
 
 ### 1.1.2. 系统
-- [MSDN_1](https://msdn.itellyou.cn/)、[MSDN_2](https://next.itellyou.cn/Original/Index)
+
 - [HelloWindows](https://hellowindows.cn/)
+- [MSDN](https://next.itellyou.cn/Original/Index)（[备用网址](https://msdn.itellyou.cn/)）
 
 ### 1.1.3. 安装
 
@@ -16,7 +17,7 @@
   |:-:|:-|:-|
   |1|跳过硬件限制|1. `SHIFT+F10` -> `regedit`<br />2. `HKEY_LOCAL_MACHINE\SYSTEM\Setup` -> 新建`项`：`LabConfig`<br />3. `LabConfig` -> 新建5个`DWORD（32位）值`：`BypassTPMCheck`=`1`、`BypassSecureBootCheck`=`1`、`BypassRAMCheck`=`1`、`BypassStorageCheck`=`1`、`BypassCPUCheck`=`1`|
   |2|跳过强制联网|`SHIFT+F10` -> `OOBE\BYPASSNRO.cmd`|
-  |3|激活|[KMSPico_1](https://www.kmspico.ws/)、[KMSPico_2](https://kms-full.com/)|
+  |3|激活|[KMSPico](https://kms-full.com/)|
 
 ## 1.2. 配置
 
@@ -39,35 +40,34 @@
   |04|<span style="color: violet;">搜狗输入法</span>|[官网](https://pinyin.sogou.com/)|
   |05|<span style="color: violet;">Clash</span>|[Clash导航](https://clashxhub.com/)|
   |06|<span style="color: violet;">向日葵</span>|[官网](https://sunlogin.oray.com/download?categ=personal)|
-  |x|QtScrcpy|https://github.com/barry-ran/QtScrcpy|
-  |07|<span style="color: violet;">Snipate</span>|[官网](https://www.snipaste.com/)|
-  |08|bandicam|[官网](https://www.bandicam.cn/downloads/)|
-  |09|Office|[Office Tool Plus](https://www.coolhub.top/archives/11)|
-  |10|<span style="color: violet;">WPS</span>|[官网](https://platform.wps.cn/)|
-  |11|<span style="color: violet;">OfficeBox</span>|[官网](http://www.wofficebox.com/)|
-  |12|Acrobat|`MD5`：11d2d9ee64a8a1da65c4fb020b18f68d|
+  |07|<span style="color: violet;">QtScrcpy</span>|[GitHub](https://github.com/barry-ran/QtScrcpy)|
+  |08|<span style="color: violet;">Snipate</span>|[官网](https://www.snipaste.com/)|
+  |09|<span style="color: violet;">bandicam</span>|[官网](https://www.bandicam.cn/downloads/)|
+  |10|Office|[Office Tool Plus](https://www.coolhub.top/archives/11)|
+  |11|<span style="color: violet;">WPS</span>|[官网](https://platform.wps.cn/)|
+  |12|<span style="color: violet;">OfficeBox</span>|[官网](http://www.wofficebox.com/)|
   |13|打印机驱动|[官网](https://support.hp.com/in-en/drivers/printers)|
 
 ### 1.3.2. 应用
 
 - |序号|名称|来源 / 校验|
   |:-:|:-|:-|
-  |01|<span style="color: violet;">Chrome</span>|<https://www.google.cn/chrome/>|
-  |02|<span style="color: violet;">Firefox</span>|<http://www.firefox.com.cn/>|
-  |03|QQ|<https://im.qq.com/download>|
-  |04|<span style="color: violet;">QQ音乐</span>|<https://y.qq.com/download>|
-  |05|<span style="color: violet;">微信</span>|<https://pc.weixin.qq.com/>|
-  |06|<span style="color: violet;">钉钉</span>|<https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/>|
-  |07|<span style="color: teal;">Foxmail</span>|<https://www.foxmail.com/>|
-  |08|坚果云|<https://www.jianguoyun.com/s/downloads>|
-  |09|<span style="color: violet;">百度网盘</span>|<https://pan.baidu.com/download#pan>|
-  |10|阿里云盘|<https://www.aliyundrive.com/>|
-  |11|<span style="color: violet;">格式工厂</span>|<http://www.pcgeshi.com/>|
-  |12|光影魔术手|<http://www.neoimaging.cn/>|
-  |13|<span style="color: violet;">暴风影音</span>|<http://www.baofeng.com/download>|
-  |14|<span style="color: violet;">Steam</span>|<https://store.steampowered.com/about/>|
-  |15|<span style="color: violet;">Watt Toolkit</span>|<https://steampp.net/>|
-  |16|Ubisoft|<https://ubisoftconnect.com/zh-CN/>|
+  |01|<span style="color: violet;">Chrome</span>|[官网](https://www.google.cn/chrome/)|
+  |02|<span style="color: violet;">Firefox</span>|[官网](http://www.firefox.com.cn/)|
+  |03|QQ|[官网](https://im.qq.com/download)|
+  |04|QQ音乐|[官网](https://y.qq.com/download)|
+  |05|<span style="color: violet;">微信</span>|[官网](https://pc.weixin.qq.com/)|
+  |06|<span style="color: violet;">钉钉</span>|[官网](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)|
+  |07|<span style="color: teal;">Foxmail</span>|[官网](https://www.foxmail.com/)|
+  |08|坚果云|[官网](https://www.jianguoyun.com/s/downloads)|
+  |09|<span style="color: violet;">百度网盘</span>|[官网](https://pan.baidu.com/download#pan)|
+  |10|阿里云盘|[官网](https://www.aliyundrive.com/)|
+  |11|<span style="color: violet;">格式工厂</span>|[官网](http://www.pcgeshi.com/download.html)|
+  |12|光影魔术手|[官网](http://www.neoimaging.cn/)|
+  |13|<span style="color: violet;">暴风影音</span>|[官网](http://www.baofeng.com/download)|
+  |14|Steam|[官网](https://store.steampowered.com/about/)|
+  |15|Watt Toolkit|[官网](https://steampp.net/)|
+  |16|Ubisoft|[官网](https://ubisoftconnect.com/zh-CN/)|
 
 # 2. MacOS
 
@@ -143,9 +143,9 @@
   
 - |序号|名称|来源 / 校验|
   |:-:|:-|:-|
-  |01|<span style="color: violet;">Git</span>|<https://www.liaoxuefeng.com/wiki/896043488029600><br>(<https://git-scm.com/downloads>)|
-  |02|<span style="color: violet;">Sublime</span>|<http://www.sublimetext.com/>|
-  |03|<span style="color: violet;">Python</span>|<https://www.liaoxuefeng.com/wiki/1016959663602400/1016959856222624><br>(<https://www.python.org/>)|
+  |01|<span style="color: violet;">Git</span>|[官网](https://git-scm.com/downloads)|
+  |02|<span style="color: violet;">Sublime</span>|[官网](http://www.sublimetext.com/)|
+  |03|<span style="color: violet;">Python</span>|[官网](https://www.python.org/)|
   |04|PyCharm|<https://www.jetbrains.com/pycharm/download/>|
   |05|<span style="color: violet;">Postman</span>|<https://www.postman.com/downloads/>|
   |06|JDK|<https://www.runoob.com/java/java-environment-setup.html><br>(<https://www.oracle.com/java/technologies/downloads/>)|
