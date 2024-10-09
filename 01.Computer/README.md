@@ -36,35 +36,35 @@
   |:-:|:-|:-|
   |01|<span style="color: violet;">腾讯电脑管家</span>|[官网](https://guanjia.qq.com/page/product_download.html)|
   |02|<span style="color: violet;">7-Zip</span>|[官网](https://www.7-zip.org/)|
-  |03|<span style="color: violet;">迅雷</span>|[官网](https://www.xunlei.com/)|
+  |03|【<span style="color: violet;">迅雷</span>】|[官网](https://www.xunlei.com/)|
   |04|<span style="color: violet;">搜狗输入法</span>|[官网](https://pinyin.sogou.com/)|
-  |05|<span style="color: violet;">Clash</span>|[Clash导航](https://clashxhub.com/)|
+  |05|【<span style="color: violet;">Clash</span>】|[Clash导航](https://clashxhub.com/)|
   |06|<span style="color: violet;">向日葵</span>|[官网](https://sunlogin.oray.com/download?categ=personal)|
-  |07|<span style="color: violet;">QtScrcpy</span>|[GitHub](https://github.com/barry-ran/QtScrcpy)|
+  |07|【<span style="color: violet;">QtScrcpy</span>】|[GitHub](https://github.com/barry-ran/QtScrcpy)|
   |08|<span style="color: violet;">Snipate</span>|[官网](https://www.snipaste.com/)|
-  |09|<span style="color: violet;">Bandicam</span>|[官网](https://www.bandicam.cn/downloads/)|
+  |09|【<span style="color: violet;">Bandicam</span>】|[官网](https://www.bandicam.cn/downloads/)|
   |10|Office|[Office Tool Plus](https://www.coolhub.top/archives/11)|
-  |11|<span style="color: violet;">WPS</span>|[官网](https://platform.wps.cn/)|
-  |12|<span style="color: violet;">OfficeBox</span>|[官网](http://www.wofficebox.com/)|
+  |11|【<span style="color: violet;">WPS</span>】|[官网](https://platform.wps.cn/)|
+  |12|【<span style="color: violet;">OfficeBox</span>】|[官网](http://www.wofficebox.com/)|
   |13|打印机驱动|[官网](https://support.hp.com/in-en/drivers/printers)|
 
 ### 1.3.2. 应用
 
 - |序号|名称|来源 / 校验|
   |:-:|:-|:-|
-  |01|<span style="color: violet;">Chrome</span>|[官网](https://www.google.cn/chrome/)|
-  |02|<span style="color: violet;">Firefox</span>|[官网](http://www.firefox.com.cn/)|
-  |03|QQ|[官网](https://im.qq.com/download)|
-  |04|QQ音乐|[官网](https://y.qq.com/download)|
-  |05|<span style="color: violet;">微信</span>|[官网](https://pc.weixin.qq.com/)|
-  |06|<span style="color: violet;">钉钉</span>|[官网](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)|
-  |07|<span style="color: teal;">Foxmail</span>|[官网](https://www.foxmail.com/)|
+  |01|【<span style="color: violet;">Chrome</span>】|[官网](https://www.google.cn/chrome/)|
+  |02|【<span style="color: violet;">Firefox</span>】|[官网](http://www.firefox.com.cn/)|
+  |03|【<span style="color: violet;">QQ</span>】|[官网](https://im.qq.com/download)|
+  |04|【<span style="color: violet;">QQ音乐</span>】|[官网](https://y.qq.com/download)|
+  |05|【<span style="color: violet;">微信</span>】|[官网](https://pc.weixin.qq.com/)|
+  |06|【<span style="color: violet;">钉钉</span>】|[官网](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)|
+  |07|【<span style="color: teal;">Foxmail</span>】|[官网](https://www.foxmail.com/)|
   |08|坚果云|[官网](https://www.jianguoyun.com/s/downloads)|
-  |09|<span style="color: violet;">百度网盘</span>|[官网](https://pan.baidu.com/download#pan)|
-  |10|阿里云盘|[官网](https://www.aliyundrive.com/)|
-  |11|<span style="color: violet;">格式工厂</span>|[官网](http://www.pcgeshi.com/download.html)|
-  |12|光影魔术手|[官网](http://www.neoimaging.cn/)|
-  |13|<span style="color: violet;">暴风影音</span>|[官网](http://www.baofeng.com/download)|
+  |09|【<span style="color: violet;">百度网盘</span>】|[官网](https://pan.baidu.com/download#pan)|
+  |10|【阿里云盘】|[官网](https://www.aliyundrive.com/)|
+  |11|【<span style="color: violet;">格式工厂</span>】|[官网](http://www.pcgeshi.com/download.html)|
+  |12|【<span style="color: violet;">光影魔术手</span>】|[官网](http://www.neoimaging.cn/)|
+  |13|【<span style="color: violet;">暴风影音</span>】|[官网](http://www.baofeng.com/download)|
   |14|Steam|[官网](https://store.steampowered.com/about/)|
   |15|Watt Toolkit|[官网](https://steampp.net/)|
   |16|Ubisoft|[官网](https://ubisoftconnect.com/zh-CN/)|
@@ -144,9 +144,9 @@
 - |序号|名称|来源 / 校验|
   |:-:|:-|:-|
   |01|git|[官网](https://git-scm.com/downloads)|
-  |02|Sublime Text|[官网](http://www.sublimetext.com/)|
+  |02|【Sublime Text】|[官网](http://www.sublimetext.com/)|
   |03|Python|[官网](https://www.python.org/)|
-  |05|Postman|[官网](https://www.postman.com/downloads/)|
+  |05|【Postman】|[官网](https://www.postman.com/downloads/)|
   |12|Dev-C++|<https://github.com/Embarcadero/Dev-Cpp/>|
   |06|JDK|<https://www.runoob.com/java/java-environment-setup.html><br>(<https://www.oracle.com/java/technologies/downloads/>)|
   |07|MySQL|<https://www.cnblogs.com/winton-nfs/p/11524007.html>|
