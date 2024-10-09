@@ -40,7 +40,7 @@
   |04|<span style="color: violet;">搜狗输入法</span>|[官网](https://pinyin.sogou.com/)|
   |05|【<span style="color: violet;">Clash</span>】|[Clash导航](https://clashxhub.com/)|
   |06|<span style="color: violet;">向日葵</span>|[官网](https://sunlogin.oray.com/download?categ=personal)|
-  |07|【<span style="color: violet;">QtScrcpy</span>】|[GitHub](https://github.com/barry-ran/QtScrcpy)|
+  |07|【<span style="color: violet;">QtScrcpy</span>】|[GitHub](https://github.com/barry-ran/QtScrcpy/releases)|
   |08|<span style="color: violet;">Snipate</span>|[官网](https://www.snipaste.com/)|
   |09|【<span style="color: violet;">Bandicam</span>】|[官网](https://www.bandicam.cn/downloads/)|
   |10|Office|[Office Tool Plus](https://www.coolhub.top/archives/11)|
@@ -92,52 +92,48 @@
 
 - |序号|名称|来源 / 校验|
   |:-:|:-|:-|
-  |01.|Hackintool|<https://github.com/headkaze/Hackintool/releases>|
-  |02.|ProperTree|<https://github.com/corpnewt/ProperTree>|
-  |03.|MonitorControl|<https://github.com/MonitorControl/MonitorControl/releases>|
-  |04.|VideoProc Converter|<https://www.videoproc.com/video-editing-software/compare/products-comparison.htm>|
-  |05.|Disk Speed Test|App Store|
-  |06.|Geekbench|<https://www.geekbench.com/download/>|
-  |07.|OpenCanopy Generator|<https://github.com/chris1111/OpenCanopy-Generator/releases>|
-  |02.|柠檬清理|<https://lemon.qq.com/>|
-  |03.|MacZip|<https://ezip.awehunt.com/>|
-  |01.|Scroll Reverser|<https://pilotmoon.com/scrollreverser/>|
-  |04.|NTFS|<https://uc.paragon-software.com/cabinet/#/>|
-  |06.|迅雷|<https://www.xunlei.com/>|
-  |05.|搜狗输入法|<https://pinyin.sogou.com/>|
-  |05|<span style="color: violet;">Clash</span>|[Clash导航](https://clashxhub.com/)|
-  |10.|向日葵|<https://sunlogin.oray.com/download?categ=personal>|
-  |x|QtScrcpy|https://github.com/barry-ran/QtScrcpy|
-  |08.|Snipate|<https://www.snipaste.com/>|
-  |09.|ScreenFlow|<https://osx.cx/?s=screenflow>|
-  |07.|WPS|<https://platform.wps.cn/>|
-  |13.|iStat Menus|<https://beta.bjango.com/mac/istatmenus/>|
-  |15.|Dynamic Wallpaper|App Store|
-  |12.|Cheat Sheet|<https://www.mediaatelier.com/CheatSheet/>|
+  |01|Hackintool|[GitHub](https://github.com/headkaze/Hackintool/releases)|
+  |02|ProperTree|[GitHub](https://github.com/corpnewt/ProperTree)|
+  |03|MonitorControl|[GitHub](https://github.com/MonitorControl/MonitorControl/releases)|
+  |04|VideoProc Converter|[官网](https://www.videoproc.com/video-editing-software/compare/products-comparison.htm)|
+  |05|Disk Speed Test|App Store|
+  |06|Geekbench|[官网](https://www.geekbench.com/download/)|
+  |07|iStat Menus|[官网](https://bjango.com/mac/istatmenus/)|
+  |08|Dynamic Wallpaper|App Store|
+  |09|柠檬清理|[官网](https://lemon.qq.com/)|
+  |10|MacZip|[官网](https://ezip.awehunt.com/)|
+  |11|迅雷|[官网](https://www.xunlei.com/)|
+  |12|搜狗输入法|[官网](https://pinyin.sogou.com/)|
+  |13|Clash|[Clash导航](https://clashxhub.com/)|
+  |14|Scroll Reverser|[官网](https://pilotmoon.com/scrollreverser/)|
+  |15|NTFS|[官网](https://uc.paragon-software.com/cabinet/#/)|
+  |16|向日葵|[官网](https://sunlogin.oray.com/download?categ=personal)|
+  |17|QtScrcpy|[GitHub](https://github.com/barry-ran/QtScrcpy/releases)|
+  |18|Snipate|[官网](https://www.snipaste.com/)|
+  |19|ScreenFlow|[黑苹果社区](https://osx.cx/?s=screenflow)|
+  |20|WPS|[官网](https://platform.wps.cn/)|
+  |21|Parallels|[官网](https://www.parallels.com/products/desktop/download/)|
+  |22|VMware|[官网](https://customerconnect.vmware.com/group/vmware/evalcenter?p=fusion-player-personal)|
 
 ### 2.3.2. 应用
 
 - |序号|名称|来源 / 校验|
   |:-:|:-|:-|
-  |01.|Chrome|<https://www.google.cn/chrome/>|
-  |02.|Firefox|<http://www.firefox.com.cn/>|
-  |03.|Edge|<https://www.microsoft.com/zh-cn/edge>|
-  |04.|QQ|<https://im.qq.com/macqq/>|
-  |05.|QQ音乐|<https://y.qq.com/download/mac.html>|
-  |06.|微信|<https://mac.weixin.qq.com/>|
-  |07.|钉钉|<https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/>|
-  |08.|坚果云|<https://www.jianguoyun.com/s/downloads>|
-  |10.|百度网盘|<https://pan.baidu.com/download#pan>|
-  |09.|阿里云盘|<https://www.aliyundrive.com/>|
-  |11.|夸克网盘|<https://pan.quark.cn/>|
-  |13.|Photoshop|<https://osx.cx/?s=photoshop>|
-  |12.|IINA|<https://iina.io/>|
-  |15.|TubeGet|<https://www.tubegetpro.com/zh/>|
-  |14.|万兴优转|<https://uniconverter.wondershare.cn/>|
-  |14|<span style="color: violet;">Steam</span>|<https://store.steampowered.com/about/>|
-  |16|Ubisoft|<https://ubisoftconnect.com/zh-CN/>|
-  |16.|Parallels|<https://www.parallels.com/products/desktop/download/>|
-  |17.|VMware|<https://customerconnect.vmware.com/group/vmware/evalcenter?p=fusion-player-personal>|
+  |01|Chrome|[官网](https://www.google.cn/chrome/)|
+  |02|Firefox|[官网](http://www.firefox.com.cn/)|
+  |03|Edge|[官网](https://www.microsoft.com/zh-cn/edge)|
+  |04|QQ|[官网](https://im.qq.com/macqq/)|
+  |05|QQ音乐|[官网](https://y.qq.com/download/mac.html)|
+  |06|微信|[官网](https://mac.weixin.qq.com/)|
+  |07|钉钉|[官网](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownload#/)|
+  |08|坚果云|[官网](https://www.jianguoyun.com/s/downloads)|
+  |09|百度网盘|[官网](https://pan.baidu.com/download#pan)|
+  |10|阿里云盘|[官网](https://www.aliyundrive.com/)|
+  |11|夸克网盘|[官网](https://pan.quark.cn/)|
+  |12|Photoshop|[黑苹果社区](https://osx.cx/?s=photoshop)|
+  |13|IINA|[官网](https://iina.io/)|
+  |14|TubeGet|[官网](https://www.tubegetpro.com/zh/)|
+  |15|万兴优转|[官网](https://uniconverter.wondershare.cn/)|
 
 # 3. Code
   
@@ -148,9 +144,9 @@
   |03|【Visual Studio Code】|[官网](https://code.visualstudio.com/)|
   |03|Python|[官网](https://www.python.org/)|
   |05|【Postman】|[官网](https://www.postman.com/downloads/)|
-  |12|Dev-C++|<https://github.com/Embarcadero/Dev-Cpp/>|
-  |06|JDK|<https://www.runoob.com/java/java-environment-setup.html><br>(<https://www.oracle.com/java/technologies/downloads/>)|
-  |07|MySQL|<https://www.cnblogs.com/winton-nfs/p/11524007.html>|
-  |08|R|<https://cran.r-project.org/>|
-  |09|R Studio|<https://www.rstudio.com/products/rstudio/download/>|
-  |10|SPSS Modeler|百度网盘：<https://pan.baidu.com/s/1D8wlbnKo9n2Al86g7rlrDQ><br>提取码：efa3|
+  |12|Dev-C++|[GitHub](https://github.com/Embarcadero/Dev-Cpp/releases)|
+  |06|JDK|[参考教程](https://www.runoob.com/java/java-environment-setup.html)|
+  |07|MySQL|[参考教程](https://www.cnblogs.com/winton-nfs/p/11524007.html)|
+  |08|R|[官网](https://cran.r-project.org/)|
+  |09|R Studio|[官网](https://www.rstudio.com/products/rstudio/download/)|
+  |10|SPSS Modeler|[百度网盘](https://pan.baidu.com/s/1D8wlbnKo9n2Al86g7rlrDQ)（提取码：efa3）|
