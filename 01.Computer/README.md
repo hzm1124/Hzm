@@ -92,10 +92,6 @@
 
 - |序号|名称|来源 / 校验|
   |:-:|:-|:-|
-  |02.|柠檬清理|<https://lemon.qq.com/>|
-  |03.|MacZip|<https://ezip.awehunt.com/>|
-  |01.|Scroll Reverser|<https://pilotmoon.com/scrollreverser/>|
-  |04.|NTFS|<https://uc.paragon-software.com/cabinet/#/>|
   |01.|Hackintool|<https://github.com/headkaze/Hackintool/releases>|
   |02.|ProperTree|<https://github.com/corpnewt/ProperTree>|
   |03.|MonitorControl|<https://github.com/MonitorControl/MonitorControl/releases>|
@@ -103,6 +99,10 @@
   |05.|Disk Speed Test|App Store|
   |06.|Geekbench|<https://www.geekbench.com/download/>|
   |07.|OpenCanopy Generator|<https://github.com/chris1111/OpenCanopy-Generator/releases>|
+  |02.|柠檬清理|<https://lemon.qq.com/>|
+  |03.|MacZip|<https://ezip.awehunt.com/>|
+  |01.|Scroll Reverser|<https://pilotmoon.com/scrollreverser/>|
+  |04.|NTFS|<https://uc.paragon-software.com/cabinet/#/>|
   |06.|迅雷|<https://www.xunlei.com/>|
   |05.|搜狗输入法|<https://pinyin.sogou.com/>|
   |05|<span style="color: violet;">Clash</span>|[Clash导航](https://clashxhub.com/)|
@@ -145,6 +145,7 @@
   |:-:|:-|:-|
   |01|git|[官网](https://git-scm.com/downloads)|
   |02|【Sublime Text】|[官网](http://www.sublimetext.com/)|
+  |03|【Visual Studio Code】|[Visual Studio Code](https://code.visualstudio.com/)|
   |03|Python|[官网](https://www.python.org/)|
   |05|【Postman】|[官网](https://www.postman.com/downloads/)|
   |12|Dev-C++|<https://github.com/Embarcadero/Dev-Cpp/>|
