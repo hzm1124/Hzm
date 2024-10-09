@@ -23,7 +23,7 @@
 
 - |No|Name|Value|
   |:-:|:-|:-|
-  |1|系统|私人：<br />1. `User`: `Hzm`<br />2. `Name`: `Hzm-Desktop`<br /><br />办公（台式）：<br />1. `User`: `YangTeng`<br />2. `Name`: `Lennon-Desktop`<br /><br />办公（笔记本）：<br />1. `User`: `YangTeng`<br />2. `Name`: `Lennon-Laptop`|
+  |1|名称|私人：<br />1. `User`: `Hzm`<br />2. `Name`: `Hzm-Desktop`<br /><br />办公（台式）：<br />1. `User`: `YangTeng`<br />2. `Name`: `Lennon-Desktop`<br /><br />办公（笔记本）：<br />1. `User`: `YangTeng`<br />2. `Name`: `Lennon-Laptop`|
   |2|git|私人：<br />1. `git config --global user.name 'Hzm'`<br />2. `git config --global user.email '1210882202@qq.com'`<br /><br />办公（台式）：<br />1. `git config --global user.name 'Lennon_Desktop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`<br /><br />办公（笔记本）：<br />1. `git config --global user.name 'Lennon_Laptop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`|
 
 ## 1.3. 软件
@@ -149,4 +149,4 @@
   |07|MySQL|[参考教程](https://www.cnblogs.com/winton-nfs/p/11524007.html)|
   |08|R|[官网](https://cran.r-project.org/)|
   |09|R Studio|[官网](https://www.rstudio.com/products/rstudio/download/)|
-  |10|SPSS Modeler|[百度网盘](https://pan.baidu.com/s/1D8wlbnKo9n2Al86g7rlrDQ)（提取码：efa3）|
+  |10|SPSS Modeler|[通过网盘分享的文件：IBM SPSS Modeler 18 (提取码: efa3)](https://pan.baidu.com/s/1D8wlbnKo9n2Al86g7rlrDQ)|
