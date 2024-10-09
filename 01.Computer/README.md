@@ -145,7 +145,7 @@
   |:-:|:-|:-|
   |01|git|[官网](https://git-scm.com/downloads)|
   |02|【Sublime Text】|[官网](http://www.sublimetext.com/)|
-  |03|【Visual Studio Code】|[Visual Studio Code](https://code.visualstudio.com/)|
+  |03|【Visual Studio Code】|[官网](https://code.visualstudio.com/)|
   |03|Python|[官网](https://www.python.org/)|
   |05|【Postman】|[官网](https://www.postman.com/downloads/)|
   |12|Dev-C++|<https://github.com/Embarcadero/Dev-Cpp/>|
