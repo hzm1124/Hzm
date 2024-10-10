@@ -24,7 +24,7 @@
 - |No|Name|Value|
   |:-:|:-|:-|
   |1|名称|私人：<br />1. `User`: `Hzm`<br />2. `Name`: `Hzm-Desktop`<br /><br />办公（台式）：<br />1. `User`: `YangTeng`<br />2. `Name`: `Lennon-Desktop`<br /><br />办公（笔记本）：<br />1. `User`: `YangTeng`<br />2. `Name`: `Lennon-Laptop`|
-  |2|git|私人：<br />1. `git config --global user.name 'Hzm'`<br />2. `git config --global user.email '1210882202@qq.com'`<br /><br />办公（台式）：<br />1. `git config --global user.name 'Lennon_Desktop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`<br /><br />办公（笔记本）：<br />1. `git config --global user.name 'Lennon_Laptop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`|
+  |2|git|私人：<br />1. `git config --global user.name 'Hzm_Desktop'`<br />2. `git config --global user.email '1210882202@qq.com'`<br /><br />办公（台式）：<br />1. `git config --global user.name 'Lennon_Desktop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`<br /><br />办公（笔记本）：<br />1. `git config --global user.name 'Lennon_Laptop'`<br />2. `git config --global user.email 'mktg88@cht-group.net'`|
 
 ## 1.3. 软件
 
