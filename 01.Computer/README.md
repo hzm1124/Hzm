@@ -43,9 +43,9 @@
   |07|【<span style="color: violet;">QtScrcpy</span>】|[GitHub](https://github.com/barry-ran/QtScrcpy/releases)|
   |08|<span style="color: violet;">Snipate</span>|[官网](https://www.snipaste.com/)|
   |09|【<span style="color: violet;">Bandicam</span>】|[官网](https://www.bandicam.cn/downloads/)|
-  |10|Office|[Office Tool Plus](https://www.coolhub.top/archives/11)|
-  |11|【<span style="color: violet;">WPS</span>】|[官网](https://platform.wps.cn/)|
-  |12|【<span style="color: violet;">DiskGenius</span>】|[官网](https://www.diskgenius.cn/download.php)|
+  |10|【<span style="color: violet;">DiskGenius</span>】|[官网](https://www.diskgenius.cn/download.php)|
+  |11|Office|[Office Tool Plus](https://www.coolhub.top/archives/11)|
+  |12|【<span style="color: violet;">WPS</span>】|[官网](https://platform.wps.cn/)|
   |13|【<span style="color: violet;">OfficeBox</span>】|[官网](http://www.wofficebox.com/)|
   |14|打印机驱动|[官网](https://support.hp.com/in-en/drivers/printers)|
 
