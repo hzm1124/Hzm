@@ -11,7 +11,7 @@
 - [HelloWindows](https://hellowindows.cn/)
 - [MSDN](https://next.itellyou.cn/Original/Index)（[备用网址](https://msdn.itellyou.cn/)）
 
-### 1.1.3. 安装
+### 1.1.3. 关键操作
 
 - |No|Name|Value|
   |:-:|:-|:-|
@@ -74,9 +74,11 @@
 
 ## 2.1. 安装
 
+### 2.1.1. 安装指南
+
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
-## 2.2. BIOS
+### 2.1.2. 安装时BIOS
 
 - |No|Path|Value|
   |:-:|:-|:-|
@@ -91,14 +93,28 @@
   |09|||
   |10|||
 
-## 2.3. 配置
+### 2.1.3. 最终版BIOS
+
+- |No|Path|Value|
+  |:-:|:-|:-|
+  |01|||
+  |02|||
+  |03|||
+  |04|||
+  |05|||
+  |06|||
+  |07|||
+  |08|||
+  |09|||
+  |10|||
+
+## 2.2. 配置
 
 - |No|Name|Value|
   |:-:|:-|:-|
   |1|Homebrew|[官网](https://brew.sh/zh-cn/)|
   |2|Oh My Zsh|[官网](https://ohmyz.sh/#install)<br /><br />`~/.zshrc` -> `ZSH_THEME="apple"`、`ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=yellow'`、`plugins=(git zsh-autosuggestions)`（参考[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)）|
   |3|git|1. `git config --global user.name 'Hackintosh'`<br />2. `git config --global user.email '1210882202@qq.com'`|
-
 
 ## 2.3. 软件
 
