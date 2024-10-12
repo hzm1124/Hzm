@@ -80,33 +80,47 @@
 
 ### 2.1.2. 安装时BIOS
 
-- |No|Path|Value|
-  |:-:|:-|:-|
-  |01|||
-  |02|||
-  |03|||
-  |04|||
-  |05|||
-  |06|||
-  |07|||
-  |08|||
-  |09|||
-  |10|||
+- Twesker
+  - Advanced CPU Settings
+    - Hyper-Threading Technology：`Enabled`
+    - VT-d：`Disabled`
+  - Extreme Memory Profile(X.M.P.)：`Profile1`（`DDR4-3200 16-20-20-38-58-1.35`）
+  - System Memory Multiplier：`Auto`（`3200`）
+- Settings
+  - IO Ports
+    - Internal Graphics：`Enabled`
+    - DVMT Pre-Allocated：`64M`
+    - Above 4G Decoding：`Enabled`
+    - Re-Size BAR Support：`Disabled`
+    - IOAPIC 24-119 Entries：`Enabled`
+    - Super IO Configuration
+      - Serial Port：`Disabled`
+    - USB Configuration
+      - Legacy USB Support：`Enabled`
+      - XHCI Hand-off：`Enabled`
+      - USB Mass Storage Driver Support：`Enabled`
+    - Network Stack Configuration
+      - Network Stack：`Disabled`
+    - SATA And RST Configuration
+      - SATA Controller(s)：`Enabled`
+      - SATA Mode Selection：`AHCI`
+  - Miscellaneous
+    - Intel Platform Trust Technology (PTT)：`Disabled`
+    - Software Guard Extensions (SGX)：`Disabled`
+    - Trusted Computing
+      - Security Device Support：`Disabled`
+      - Disable Block Sid：`Disabled`
+- Boot
+  - CFG Lock：`Disabled`
+  - Security Option：`System`
+  - Fast Boot：`Disable Link`
+  - Windows 10 Features：`Other OS`
+  - CSM Support：`Disabled`
+  - Secure Boot
+    - Secure Boot Enable：`Disabled`
+    - Secure Boot Mode：`Custom`
 
 ### 2.1.3. 最终版BIOS
-
-- |No|Path|Value|
-  |:-:|:-|:-|
-  |01|||
-  |02|||
-  |03|||
-  |04|||
-  |05|||
-  |06|||
-  |07|||
-  |08|||
-  |09|||
-  |10|||
 
 ## 2.2. 配置
 
