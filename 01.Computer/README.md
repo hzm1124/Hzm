@@ -90,6 +90,7 @@
   - IO Ports
     - Internal Graphics：`Enabled`
     - DVMT Pre-Allocated：`64M`
+    - DVMT Total Gfx Mem：`Max`
     - Above 4G Decoding：`Enabled`
     - Re-Size BAR Support：`Disabled`
     - IOAPIC 24-119 Entries：`Enabled`
@@ -126,12 +127,16 @@
   - Advanced CPU Settings
     - Hyper-Threading Technology：`Enabled`
     - VT-d：`Disabled`
+    - Intel(R) Turbo Boost Technology：`Enabled`
   - Extreme Memory Profile(X.M.P.)：`Profile1`（`DDR4-3200 16-20-20-38-58-1.35`）
   - System Memory Multiplier：`Auto`（`3200`）
 - Settings
+  - Platform Power
+    - Platform Power Management：`Disabled`
   - IO Ports
     - Internal Graphics：`Enabled`
-    - DVMT Pre-Allocated：`64M`
+    - DVMT Pre-Allocated：`256M`
+    - DVMT Total Gfx Mem：`Max`
     - Above 4G Decoding：`Enabled`
     - Re-Size BAR Support：`Auto`
     - IOAPIC 24-119 Entries：`Enabled`
@@ -156,7 +161,7 @@
   - CFG Lock：`Disabled`
   - Security Option：`System`
   - Fast Boot：`Disable Link`
-  - Windows 10 Features：`Other OS`
+  - Windows 10 Features：`Windows 10 WHQL`
   - CSM Support：`Disabled`
   - Secure Boot
     - Secure Boot Enable：`Disabled`
