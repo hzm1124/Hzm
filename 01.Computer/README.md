@@ -190,21 +190,20 @@
   |05|Disk Speed Test|App Store|
   |06|Geekbench|[官网](https://www.geekbench.com/download/)|
   |07|iStat Menus|[官网](https://bjango.com/mac/istatmenus/)|
-  |08|Dynamic Wallpaper|App Store|
-  |09|柠檬清理|[官网](https://lemon.qq.com/)|
-  |10|MacZip|[官网](https://ezip.awehunt.com/)|
-  |11|迅雷|[官网](https://www.xunlei.com/)|
-  |12|搜狗输入法|[官网](https://pinyin.sogou.com/)|
-  |13|Clash|[Clash导航](https://clashxhub.com/)|
-  |14|Scroll Reverser|[官网](https://pilotmoon.com/scrollreverser/)|
-  |15|NTFS|[官网](https://uc.paragon-software.com/cabinet/#/)|
-  |16|向日葵|[官网](https://sunlogin.oray.com/download?categ=personal)|
-  |17|QtScrcpy|[GitHub](https://github.com/barry-ran/QtScrcpy/releases)|
-  |18|Snipate|[官网](https://www.snipaste.com/)|
-  |19|ScreenFlow|[黑苹果社区](https://osx.cx/?s=screenflow)|
-  |20|WPS|[官网](https://platform.wps.cn/)|
-  |21|Parallels|[官网](https://www.parallels.com/products/desktop/download/)|
-  |22|VMware|[官网](https://customerconnect.vmware.com/group/vmware/evalcenter?p=fusion-player-personal)|
+  |08|柠檬清理|[官网](https://lemon.qq.com/)|
+  |09|MacZip|[官网](https://ezip.awehunt.com/)|
+  |10|迅雷|[官网](https://www.xunlei.com/)|
+  |11|搜狗输入法|[官网](https://pinyin.sogou.com/)|
+  |12|Clash|[Clash导航](https://clashxhub.com/)|
+  |13|Scroll Reverser|[官网](https://pilotmoon.com/scrollreverser/)|
+  |14|NTFS|[官网](https://uc.paragon-software.com/cabinet/#/)|
+  |15|向日葵|[官网](https://sunlogin.oray.com/download?categ=personal)|
+  |16|QtScrcpy|[GitHub](https://github.com/barry-ran/QtScrcpy/releases)|
+  |17|Snipate|[官网](https://www.snipaste.com/)|
+  |18|ScreenFlow|[黑苹果社区](https://osx.cx/?s=screenflow)|
+  |19|WPS|[官网](https://platform.wps.cn/)|
+  |20|Parallels|[官网](https://kb.parallels.com/5802)|
+  |21|VMware Fusion|[官网](https://customerconnect.vmware.com/group/vmware/evalcenter?p=fusion-player-personal)|
 
 ### 2.3.2. 应用
 
