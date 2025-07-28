@@ -1,0 +1,1 @@
+regedit: \HKEY_CURRENT_USER\SOFTWARE\Bennett Foddy\Getting Over It\
