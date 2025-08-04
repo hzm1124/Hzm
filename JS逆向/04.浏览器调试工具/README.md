@@ -30,7 +30,7 @@
 
 - 注意`innerWidth`和`innerHeight`
 
-## 4.2. 网络（Network）
+## 4.2. 网络（`Network`）
 
 - 保留日志（Preserve log）：当页面重新加载时，是否清除网络日志（抓包抓到的数据包）
 - 停用缓存（Disable cache）：已经请求加载过的文件是否使用本地的缓存数据，而不重新向服务端请求
@@ -42,35 +42,32 @@
   - `Fetch/XHR`：由网站`js`代码发送的请求
   - 文档：页面加载的第一个`HTML`
 
-## 4.3. 控制台（Console）
+## 4.3. 控制台（`Console`）
 
 - 用户消息：由`js`代码触发的打印信息
-- 错误：console.error
-- 警告：console.warn
-- 信息：console.log
-- 详细信息：console.debug
+- 错误：`console.error`
+- 警告：`console.warn`
+- 信息：`console.log`
+- 详细信息：`console.debug`
 - 呼出悬停控制台界面：
   - `ctrl` + `shift` + `f`
   - 右上角三个点 -> 搜索
 
-## 4.4. 源代码（Sources）
+## 4.4. 源代码（`Sources`）
 
 - 在这个页面调试`js`代码
 - 代码段（Snippets）：编写并运行多段`js`代码
 
-## 4.5. 应用程序（Application）
+## 4.5. 应用（`Application`）
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 存储 -> 清除网站数据，可清空该网站存储的所有信息
+- 本地存储（localStorage）
+  - `setItem`方法：设置键值对
+  - `getItem`方法：取值
+  - `removeItem`方法：删除键值对
+- 会话存储（sessionStorage）
+  - 同本地存储
+- `Cookie`（document.cookie）
+  - `Domain`：属于哪个网站
+  - `Expires / Max-Age`：过期时间
+  - `HttpOnly`：如果值为真，则该`cookie`无法在`js`代码中获取
