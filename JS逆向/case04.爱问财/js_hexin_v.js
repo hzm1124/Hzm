@@ -1,4 +1,4 @@
-var window = global;
+window = global;
 addEventListener = function() {};
 location = {
     "ancestorOrigins": {},
@@ -24,7 +24,7 @@ Object.defineProperty(global, 'navigator', {
     }
 })
 
-var document = {
+document = {
     getElementsByTagName: function(){
         return {}
     },

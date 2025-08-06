@@ -1,4 +1,4 @@
-var window = global;
+window = global;
 
 var JSEncryptExports = {};
 (function(exports) {
@@ -2060,7 +2060,7 @@ var JSEncryptExports = {};
             this.sub = e
         }
         var d = 100
-          , e = "鈥�"
+          , e = "鈥 "
           , f = {
             tag: function(a, b) {
                 var c = document.createElement(a);
