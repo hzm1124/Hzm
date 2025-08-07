@@ -30,7 +30,7 @@ lennon = '';
             exports: {}
         };
 
-        lennon += `'${t}': ${e[t]},`;
+        lennon += `'${t}': ${e[t] + ''},\n`;
 
         return e[t].call(i.exports, i, i.exports, o),
             i.l = !0,
