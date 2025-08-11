@@ -14,15 +14,6 @@
 - [case07. 一品威客](./case07.一品威客)
 - [case08. 得捷](./case08.得捷)
 - [case09. QQ音乐](case09.QQ音乐)
-
-- - -
-
-
-## 在 py 调用 js 代码
-        execjs 模块内部会使用到 process 对象，如果删除了 process 就会报错
-
-    subprocess：
-        import subprocess
-        result = subprocess.run(['node', 'js文件路径'], capture_output=True, text=True, encoding='utf-8')
-        result.stdout    # 获得js的打印输出信息
-        运行原理：通过命令行调用 node
+- [case10. 喜马拉雅](case10.喜马拉雅)
+- [06. 补环境理论课](./06.补环境理论课)
+- [case11. 今日头条](case11.今日头条)
